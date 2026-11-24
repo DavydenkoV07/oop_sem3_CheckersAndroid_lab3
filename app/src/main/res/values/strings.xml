@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Checkers</string>
+    <string name="turn_human">Your turn (White)</string>
+    <string name="turn_ai">Computer is thinking…</string>
+    <string name="turn_continue_capture">Continue capture!</string>
+    <string name="status_human_wins">You win!</string>
+    <string name="status_ai_wins">Computer wins!</string>
+    <string name="status_draw">Draw!</string>
+    <string name="pieces_score">White: %1$d  |  Black: %2$d</string>
+    <string name="btn_new_game">New Game</string>
+    <string name="btn_switch_language">UA / EN</string>
+    <string name="mandatory_capture_hint">Capture is mandatory!</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Шашки</string>
+    <string name="turn_human">Ваш хід (Білі)</string>
+    <string name="turn_ai">Комп\'ютер думає…</string>
+    <string name="turn_continue_capture">Продовжуйте бити!</string>
+    <string name="status_human_wins">Ви перемогли!</string>
+    <string name="status_ai_wins">Комп\'ютер переміг!</string>
+    <string name="status_draw">Нічия!</string>
+    <string name="pieces_score">Білі: %1$d  |  Чорні: %2$d</string>
+    <string name="btn_new_game">Нова гра</string>
+    <string name="btn_switch_language">UA / EN</string>
+    <string name="mandatory_capture_hint">Побиття обов\'язкове!</string>
+</resources>
