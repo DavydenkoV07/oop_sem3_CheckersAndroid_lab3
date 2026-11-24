@@ -1,0 +1,22 @@
+# Gradle & build outputs
+.gradle/
+build/
+app/build/
+*.apk
+*.aab
+*.ap_
+*.dex
+.kotlin/
+
+# Local SDK configuration
+local.properties
+
+# VS Code & IDE files
+.vscode/
+.idea/
+*.iml
+
+# Logs & OS files
+*.log
+.DS_Store
+Thumbs.db
